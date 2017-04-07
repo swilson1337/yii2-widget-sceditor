@@ -1,0 +1,20 @@
+{
+    "name": "swilson1337/yii2-widget-sceditor",
+    "description": "A widget for Yii2 that allows SCEditor to be used in forms.",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shawn Wilson",
+            "email": "swilson1337@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"swilson1337\\sceditor\\": "src/"}
+    }
+}
